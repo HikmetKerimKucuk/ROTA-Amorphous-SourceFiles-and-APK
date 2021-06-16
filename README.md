@@ -8,4 +8,4 @@ You can access the apk of the beta version of the game from the Google Drive lin
 You can access the apk of the standart version of the game from the Google Drive link:
 >> https://drive.google.com/drive/folders/1Okx7tz-rzNvzuiHSplpcuJ4tlhtssmJZ
 
-Other game content (except for codes) is not available in this github repository. Please contact me for more information.
+
