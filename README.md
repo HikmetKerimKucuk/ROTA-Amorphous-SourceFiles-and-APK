@@ -1,7 +1,8 @@
 # ROTA-Amorphous-vBeta-apk
 2D Dungeon Style Game Development Project with Unity Game Engine
 
-Due to the 25 mb limit in Github, only source codes are included in this repository. 
+Due to the 25 mb limit in Github, only source codes are included in this repository.
+
 You can access the apk of the beta version of the game from the Google Drive link:
 >> https://drive.google.com/drive/folders/1436r1Fxcxl16xNyULyRboTzav3qRVMUi
 
